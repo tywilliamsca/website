@@ -27,3 +27,7 @@ summaryLength = 0
 [services]
   [services.x]
     disableInlineCSS = true
+# config/_default/hugo.toml
+
+  [services.googleAnalytics]
+    id = 'G-XQJCPVJMNJ'
