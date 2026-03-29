@@ -10,7 +10,7 @@ title = "Ty Williams"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-   description = "Welcome to my website"
+  # description = "Welcome to my website"
 
 [params.author]
    name = "Ty Williams"
