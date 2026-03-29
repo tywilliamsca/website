@@ -4,7 +4,7 @@
 
 theme = 'congo'
 
-# baseURL = "https://tywilliams.ca"
+baseURL = "https://tywilliams.ca"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
