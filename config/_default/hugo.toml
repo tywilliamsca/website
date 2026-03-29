@@ -31,3 +31,10 @@ summaryLength = 0
 
   [services.googleAnalytics]
     id = 'G-XQJCPVJMNJ'
+
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
