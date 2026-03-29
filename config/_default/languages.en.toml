@@ -21,6 +21,7 @@ title = "Ty Williams"
    links = [
 
      { github = "https://github.com/tywilliamsca" },
+     { email = "mailto:admin@tywilliams.ca" },
 
      { linkedin = "https://linkedin.com/in/tywilliamsca" },
 
